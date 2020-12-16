@@ -16,8 +16,8 @@
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
-/.env
 
+/.env
 /node_modules
 /yarn-error.log
 
